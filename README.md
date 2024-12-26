@@ -28,8 +28,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-```
+
 home.html:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -312,7 +313,9 @@ home.html:
         </footer>
     </body>
 </html>
+```
 menu.html:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -572,7 +575,9 @@ menu.html:
         </footer>
     </body>
 </html>
+```
 reservation.html:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -806,7 +811,9 @@ reservation.html:
         </footer>
     </body>
 </html>
+```
 admin.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -960,7 +967,9 @@ admin.html:
     </footer>
 </body>
 </html>
+```
 contact.html:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -1173,7 +1182,6 @@ contact.html:
         </footer>
     </body>
 </html>
-
 
 ```
 
